@@ -5,19 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
 
-Publications
-Journals
+## Publications
+### Journals
 
 S. H. Khan, M. Hayat, M. Bennamoun, F. Sohel, R. Togneri. “Cost Sensitive Learning of Deep Feature Representations from Imbalanced Data”, IEEE Transactions on Neural Networks and Learning Systems, (IEEE TNNLS). Accepted. Impact Factor: 6.1.
 
@@ -39,7 +32,7 @@ Y. Lei, M. Bennamoun, Munawar Hayat and Y. Guo. “An efficient 3D face recognit
 
  
 
-Conferences
+### Conferences
 
 SH. Khan, M. Hayat and F. Porikli. “Scene Categorization with Spectral Features”, IEEE International Conference on Computer Vision, ICCV’17. Venice, Italy.
 
