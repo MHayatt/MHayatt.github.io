@@ -16,7 +16,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 S. H. Khan, M. Hayat, M. Bennamoun, F. Sohel, R. Togneri. “Cost Sensitive Learning of Deep Feature Representations from Imbalanced Data”, IEEE Transactions on Neural Networks and Learning Systems, (IEEE TNNLS). Accepted. Impact Factor: 6.1.
 
-M. Hayat, S. H. Khan, M. Bennamoun. “Empowering Simple Binary Classifiers for Image Set based Face Recognition”, International Journal of Computer Vision (IJCV). Volume 123, Issue3, pp 479-498.Impact Factor: 8.222. [Paper] <a href="https://ucstaff-my.sharepoint.com/personal/munawar_hayat_canberra_edu_au/_layouts/15/guestaccess.aspx?folderid=0b65257cddfb643989a86e37c0b2a4e32&amp;authkey=ARi5p3C-APMGk3QyekUUpe4&amp;e=c01e61ac8066472daf806a4bb36604ab">Codes</a>
+M. Hayat, S. H. Khan, M. Bennamoun. “Empowering Simple Binary Classifiers for Image Set based Face Recognition”, International Journal of Computer Vision (IJCV). Volume 123, Issue3, pp 479-498.Impact Factor: 8.222. [Paper] [Codes] (https://ucstaff-my.sharepoint.com/personal/munawar_hayat_canberra_edu_au/_layouts/15/guestaccess.aspx?folderid=0b65257cddfb643989a86e37c0b2a4e32&amp;authkey=ARi5p3C-APMGk3QyekUUpe4&amp;e=c01e61ac8066472daf806a4bb36604ab)
 
 M. Hayat, S. H. Khan, M. Bennamoun and S. An. “A Spatial Layout and Scale Invariant Feature Representation for Indoor Scene Classification”, IEEE Transactions on Image Processing, IEEE TIP. Volume 25, Issue, 2016, pp 4829-4841. Impact Factor: 4.828.
 
