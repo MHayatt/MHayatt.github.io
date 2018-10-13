@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently under development (25 Sep 2018)
+Currently under development (13 Oct 2018)
 
 I received my Bachelor of Engineering degree from National University of Science and Technology (NUST), Pakistan, in 2009. Later, I was awarded Erasmus Mundus Scholarship for a joint European Masters degree program. I completed my PhD from The University of Western Australia (UWA) in 2015. My PhD thesis received Robert Street Prize (awarded annually to one student whose PhD thesis, of all theses passed during the course of the year, has, in the opinion of the Board of the Graduate Research School (GRS), made the most outstanding contribution to its field). My PhD thesis also received Deans List Honorable mention award (awarded to only a fraction of theses by the GRS, UWA). I worked as a PostDoc at IBM Research Australia before joining as an Assistant Professor at The University of Canberra. My research interests include computer vision, signal and image processing, pattern recognition and machine learning.
 
