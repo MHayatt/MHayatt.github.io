@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my webpage"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,24 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Currently under development (13 Oct 2018)
+I am a Senior Lecturer at Faculty of IT, Monash University, Melbourne, Australia. I am an ARC DECRA fellow. I completed my PhD in Computer Vision from The University of Western Australia (UWA). My PhD thesis received multiple awards including the prestigious Robert Street Prize. My research interests are in computer vision, machine/deep learning, and affective computing.
 
-I received my Bachelor of Engineering degree from National University of Science and Technology (NUST), Pakistan, in 2009. Later, I was awarded Erasmus Mundus Scholarship for a joint European Masters degree program. I completed my PhD from The University of Western Australia (UWA) in 2015. My PhD thesis received Robert Street Prize (awarded annually to one student whose PhD thesis, of all theses passed during the course of the year, has, in the opinion of the Board of the Graduate Research School (GRS), made the most outstanding contribution to its field). My PhD thesis also received Deans List Honorable mention award (awarded to only a fraction of theses by the GRS, UWA). I worked as a PostDoc at IBM Research Australia before joining as an Assistant Professor at The University of Canberra. My research interests include computer vision, signal and image processing, pattern recognition and machine learning.
+## Positions Available
 
-Research Interests
+I am actively looking for excellent PhD candidates. Please drop me an email with your detailed CV.
 
-My primary area of research is computer vision and machine learning. The main goal of computer vision is to equip machines with the capability to see images and understand them. For example, given a facial image of a person, computer vision tries to answer these questions: “who is the person in the image?”, “what are the emotions on the persons face?”, and “what is the race/gender/age of the person?”.
+## News
 
-I have been interested in solving the following problems in Computer Vision
-
-Scene Understanding
-Face Recognition from low resolution and surveillance quality videos
-Face Recognition from 3D images
-Facial expression classification
-Computational Modelling of human affect
-I have developed techniques based on manifold learning, deep learning and other discriminative learning methods. For details, please see my publications.
-
-For future work, I plan to explore scene understanding, learning rich feature representations from big visual data, object detection and classification, development of methods for still to video based face recognition.
-
+- Awarded ARC DECRA Fellowship 2020-2022, $425, 613.
+- Received funding for ARC Discovery Project 2019-2021, $380, 000
+- A Paper accepted in TPAMI
+- 3 Papers accepted in CVPR 2020
+- Recent work in NeurIPS 2019
+- 2 Papers accepted in ICCV 2019
+- 2 Papers accepted in CVPR 2019
 
 
